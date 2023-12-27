@@ -1,6 +1,6 @@
 # Gallery Encryption App
 
-![안드로이드_기말-프로젝트-001.jpg](https://github.com/kimseongwoo61/SecuGuard/blob/main/screen_shot/introduction.jpg)
+![001.jpg](https://github.com/kimseongwoo61/SecuGuard/blob/main/screen_shot/introduction.jpg)
 
 ## **Project Background**
 
@@ -12,7 +12,7 @@
 
 ## **Key Features**
 
-![안드로이드_기말-프로젝트-003.png](https://github.com/kimseongwoo61/SecuGuard/blob/main/screen_shot/introduction2.png)
+![003.png](https://github.com/kimseongwoo61/SecuGuard/blob/main/screen_shot/introduction2.png)
 
 - **Login and Encryption Key Generation:** As a fundamental means of access control, the app utilizes SharedPreferences from the internal storage to perform information matching. It generates AES key data based on user-inputted data, which is subsequently used for file encryption.
 - **Dashboard:** In addition to data encryption and decryption, the main activity includes a dashboard feature that provides convenience functions such as data reset and developer contact.
@@ -34,7 +34,7 @@ Follow these steps to get started with the Gallery Encryption App:
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/your-username/gallery-encryption-app.git
+    git clone https://github.com/kimseongwoo61/SecuGuard.git
     ```
     
 2. Open the project in your preferred Android development environment.
