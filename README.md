@@ -8,7 +8,7 @@
 - **File Access Restriction:** To prevent unauthorized file access, the app exclusively handles data within the internal storage.
 - **Restricted Access to Authorized Users:** The app incorporates a login (password) logic for access control when users initially connect.
 
----
+
 
 ## **Key Features**
 
@@ -20,13 +20,12 @@
 - **File Decryption and External Export:** After decrypting data based on the internal storage key, users can intuitively view decrypted data through dynamic CardView. Clicking the export button saves the decrypted data to sdcard/Decrypt in external storage.
 - **Additional Features:** Logout, Clear Internal Storage, Link to Google Play Store for Reviews.
 
----
+
 
 ## **Design Reference**
 
 The app's design is inspired by [ClassroomUI-Android](https://github.com/Shashank02051997/ClassroomUI-Android).
 
----
 
 ## **Getting Started**
 
@@ -41,7 +40,7 @@ Follow these steps to get started with the Gallery Encryption App:
 2. Open the project in your preferred Android development environment.
 3. Build and run the app on your Android device or emulator.
 
----
+
 
 ## **Acknowledgments**
 
@@ -49,4 +48,3 @@ Special thanks to [Shashank02051997](https://github.com/Shashank02051997) for th
 
 Feel free to reach out for any questions or improvements!
 
----
